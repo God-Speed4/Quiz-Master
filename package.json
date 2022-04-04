@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "quiz-master",
+=======
+  "name": "new-owt",
+>>>>>>> b0904a867852137f2f46075343c224b671ef1d73
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -19,4 +23,8 @@
     "pug": "^2.0.4",
     "react-share": "^3.0.1"
 
+<<<<<<< HEAD
+=======
+  }
+>>>>>>> b0904a867852137f2f46075343c224b671ef1d73
 }

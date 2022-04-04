@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "new-owt",
   "version": "1.0.0",
   "description": "",
@@ -18,5 +19,26 @@
     "path": "^0.12.7",
     "pug": "^2.0.4",
     "react-share": "^3.0.1"
+=======
+  "name": "quiz-master",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/God-Speed4/Quiz-Master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/God-Speed4/Quiz-Master/issues"
+  },
+  "homepage": "https://github.com/God-Speed4/Quiz-Master#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+>>>>>>> 70184810ceda836111f283ff018207d8f665bc4f
   }
 }

@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "quiz-master",
-=======
   "name": "new-owt",
->>>>>>> b0904a867852137f2f46075343c224b671ef1d73
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -18,13 +14,10 @@
     "express": "^4.17.1",
     "http-errors": "^1.7.3",
     "mongodb": "^3.4.1",
+    "mongoose": "^6.2.9",
     "morgan": "^1.9.1",
     "path": "^0.12.7",
-    "pug": "^2.0.4",
+    "pug": "^3.0.2",
     "react-share": "^3.0.1"
-
-<<<<<<< HEAD
-=======
   }
->>>>>>> b0904a867852137f2f46075343c224b671ef1d73
 }

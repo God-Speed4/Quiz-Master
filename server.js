@@ -7,7 +7,7 @@ var logger = require('morgan');
 var app = express();
 
 app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'pug');
+app.set('view engine', 'html');
 
 app.set('port', process.env.PORT || 5000);
 console.log("+++++++++++++++" + app.get('port'));
